@@ -1,0 +1,10 @@
+
+
+# virtualenv
+venv/
+
+# macOS
+.DS_Store
+
+# editor
+.vscode
